@@ -34,8 +34,8 @@ Sebuah aplikasi sederhana yang mengimplementasikan sistem pembayaran menggunakan
 
 ## Preview Project
 - Screenshot tampilan project
-![Screenshot of the app](preview_images/preview_4.png "Home")
-![Screenshot of the app](preview_images/preview_1.png "Checkout Address Form")
-![Screenshot of the app](preview_images/preview_2.png "Xendit Payment Page")
-![Screenshot of the app](preview_images/preview_3.png "Xendit Payment Page 2")
+![Screenshot of the app](preview-images/preview_4.png "Home")
+![Screenshot of the app](preview-images/preview_1.png "Checkout Address Form")
+![Screenshot of the app](preview-images/preview_2.png "Xendit Payment Page")
+![Screenshot of the app](preview-images/preview_3.png "Xendit Payment Page 2")
 
