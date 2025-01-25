@@ -17,7 +17,7 @@ Sebuah aplikasi sederhana yang mengimplementasikan sistem pembayaran menggunakan
 - **Database**: MySQL
 - **Frontend**: Bootstrap 5
 - **API** : Xendit payment gateway
-- **Language**: PHP, HTML, CSS, JavaScript
+- **Language**: PHP
 
 ---
 
